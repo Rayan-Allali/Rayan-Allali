@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/108684980/205691793-81c56c2b-912d-4566-b13a-533f76b84978.png)
+![Header](https://user-images.githubusercontent.com/108684980/205691793-81c56c2b-912d-4566-b13a-533f76b84978.png)
 <h1 align="center">Hi 👋, I'm Rayan</h1>
 <h3 align="center">A passionate full stack developer from Algeria</h3>
 
