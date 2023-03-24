@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://github.com/Rayan-Allali/Rayan-Allali/blob/main/assets/banner.png" width="100%">
+  <img src="https://github.com/Rayan-Allali/Rayan-Allali/blob/main/assets/banner-coding.jpg" width="100%">
 </p>
 
 <!-- Introduction -->
