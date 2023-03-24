@@ -31,6 +31,6 @@
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayan-allali/"><img src="https://img.shields.io/badge/-Rayan%20Allali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayan-allali/" /></a>
-  <a href="mailto:rayanallali@hotmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white&link=mailto:rayanallali@hotmail.com" /></a>
+  <a href="[https://www.linkedin.com/in/rayan-allali/](https://www.linkedin.com/in/rayan-allali-433932226/)"><img src="https://img.shields.io/badge/-Rayan%20Allali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayan-allali/" /></a>
+  <a href="mailto:rayanalllali@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&logoColor=white&link=mailto:rayanalllali@gmail.com" /></a>
 </p>
