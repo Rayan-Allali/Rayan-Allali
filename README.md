@@ -27,7 +27,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Allali&show_icons=true&hide_border=true" />
 </p>
-
+<!-- Most Used Languages -->
+<h2 align="center">Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&layout=compact" />
+</p>
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
 <p align="center">
