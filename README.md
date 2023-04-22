@@ -30,7 +30,7 @@
 <!-- All Used Languages -->
 <h2 align="center">All Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&langs_count=13&layout=compact&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&langs_count=3&layout=compact&hide=html,css" />
 </p>
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
