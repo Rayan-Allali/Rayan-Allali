@@ -27,10 +27,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Allali&show_icons=true&hide_border=true" />
 </p>
-<!-- Most Used Languages -->
-<h2 align="center">Most Used Languages</h2>
+<!-- All Used Languages -->
+<h2 align="center">All Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&langs_count=10&layout=compact&hide=html,css" />
 </p>
 <!-- Contact -->
 <h2 align="center">Contact Me</h2>
