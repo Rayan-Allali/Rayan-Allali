@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋 I'm Rayan Allali</h1>
 <p align="center">
-  I'm a Full Stack Developer with experience in Next.js, React, Nest.js, JavaScript, Figma, Redux Toolkit, Gatsby, Vite, and more. I'm passionate about creating intuitive, responsive, and efficient web applications that solve real-world problems.
+  I'm a Full Stack Developer with experience in asp.net core (.Net) , Next.js, React, Nest.js, JavaScript, Figma, Redux Toolkit, Gatsby, Vite, C# and more. I'm passionate about creating intuitive, responsive, and efficient web applications that solve real-world problems.
 </p>
 
 <!-- Technologies -->
