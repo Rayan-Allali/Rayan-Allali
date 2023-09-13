@@ -33,7 +33,7 @@ Here are some of the languages, frameworks, and tools that I frequently use:
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&layout=compact&theme=radical&hide=html,css&langs_count=6&exclude_repo=github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Allali&layout=compact&theme=radical&hide=html,css&langs_count=6)
 
 The languages shown above are determined based on the GitHub API, but it may not accurately reflect my language usage. Here's an additional language I frequently use:
 
