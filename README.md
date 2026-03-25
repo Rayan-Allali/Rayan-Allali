@@ -3,7 +3,11 @@
 ### An experienced typescript developer
 
 - 🌱 I'm currently learning **devops & mlops**
+- 👯 I'm looking to collaborate on **Open-source projects
+Non-profit initiatives
+Interesting ideas with real impact
 
+If you’re working on something meaningful and need help (especially in web development or AI), feel free to reach out.**
 - 📫 How to reach me **rayanalllali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
