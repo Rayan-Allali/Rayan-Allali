@@ -12,8 +12,6 @@ Currently focused on:
 
 - Full-Stack Developer at Confirmoo (2 years)
 - Full-Stack Developer at Atlas Marketspace
-- Development Department Manager at GDG Algiers
-- Contributor to open-source projects and technical workshops
 
 ## Tech Stack
 
@@ -35,17 +33,9 @@ Python • Pytorch • Scikit-Learn • spacy
 - Backend development using NestJS, PostgreSQL and TypeORM
 - Used in GDG Algiers learning initiatives
 
-🌾 AgroConnect
-- Agricultural marketplace platform connecting farmers and buyers
-- NestJS, PostgreSQL and Prisma
-
-🏆 Junction Algeria Hackathon Projects
-- Built production-ready MVPs under strict time constraints
-
 ## Open Source
 
 - Nest Init CLI Contributor
-- Web Navigation Package Contributor
 
 ## Let's Connect
 
