@@ -1,27 +1,54 @@
-# Hi 👋, I'm RAYAN ALLALI
+# Hi 👋, I'm Rayan Allali
 
-### An experienced typescript developer
+Full-Stack Software Engineer with experience building production web applications, e-commerce platforms, and developer tooling using TypeScript.
 
-- 🌱 I'm currently learning **devops & mlops**
-- 👯 I'm looking to collaborate on **Open-source projects
-Non-profit initiatives
-Interesting ideas with real impact
+Currently focused on:
+- Backend engineering with NestJS & Node.js
+- Distributed systems
+- Cloud & DevOps
+- Applied AI and Bioinformatics
 
-If you’re working on something meaningful and need help (especially in web development or AI), feel free to reach out.**
-- 📫 How to reach me **rayanalllali@gmail.com**
+## Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Rayan-Allali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rayan-Allali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rayan-allali-433932226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-allali-433932226" height="30" width="40" /></a>
-</p>
+- Full-Stack Developer at Confirmoo (2 years)
+- Full-Stack Developer at Atlas Marketspace
+- Development Department Manager at GDG Algiers
+- Contributor to open-source projects and technical workshops
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rayan-Allali&show_icons=true&locale=en&layout=compact" alt="Rayan-Allali" /></p>
+### Backend
+NestJS • Express • FastAPI • PostgreSQL • MongoDB • Redis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rayan-Allali&show_icons=true&locale=en" alt="Rayan-Allali" /></p>
+### Frontend
+React • Next.js • TypeScript
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Allali&" alt="Rayan-Allali" /></p>
+### DevOps & Cloud
+Docker • CI/CD • Linux • GCP
 
+### AI / Data
+Python • Pytorch • Scikit-Learn • spacy
+
+## Featured Projects
+
+🚀 GLP Learning Platform Backend
+- Backend development using NestJS, PostgreSQL and TypeORM
+- Used in GDG Algiers learning initiatives
+
+🌾 AgroConnect
+- Agricultural marketplace platform connecting farmers and buyers
+- NestJS, PostgreSQL and Prisma
+
+🏆 Junction Algeria Hackathon Projects
+- Built production-ready MVPs under strict time constraints
+
+## Open Source
+
+- Nest Init CLI Contributor
+- Web Navigation Package Contributor
+
+## Let's Connect
+
+📫 rayanalllali@gmail.com
+
+💼 LinkedIn: linkedin.com/in/rayan-allali-433932226
